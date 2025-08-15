@@ -1,34 +1,14 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" alt="waving hand animation"/>
+</div>
+
 # Hi there, I'm Geethika! 👋
 
 ## 🚀 About Me
 
 I am a dynamic and results‑oriented Software Engineer and AI Developer with hands‑on experience building web and mobile applications and integrating cutting‑edge artificial intelligence technologies. I enjoy working with cross‑functional teams to deliver high‑quality software solutions. My professional journey spans front‑end development with Angular and Flutter, back‑end APIs with Node.js and Python, and AI/ML services using OpenAI, LangChain and vector databases. I currently contribute to innovative projects at DDI LABS, Gazeru (Pvt) Ltd and as a freelance AI chatbot developer on Upwork.
 
-## 🎓 Education
-
-* **BSc Computer Science** – Eastern University, Sri Lanka (2019–2023), GPA 4.0  
-* **Advanced Level (A/L)** – 2016  
-* **Ordinary Level (O/L)** – 2013
-
-## 💼 Work Experience
-
-* **Software Engineer, DDI LABS** (2023–present, Sydney)  
-  • Developed Flutter and Angular applications, such as **Corsight**, a face‑recognition system, and **Smash Repair**, an app that detects vehicle damages.  
-  • Enhanced and maintained live projects (Gamuda, Baiada), delivering new features, version upgrades and rigorous testing.  
-  • Integrated payment gateways and leveraged Azure services, Azure DevOps pipelines and Google Cloud Functions.  
-
-* **Associate Software Engineer & AI Developer, Gazeru (Pvt) Ltd** (2023–present, Colombo)  
-  • Built **Ashogu**, an AI‑powered web app using Angular, Flask, Python, OpenAI and MongoDB for personalized assistant services.  
-  • Deployed back‑end services on AWS Elastic Beanstalk and implemented generative AI tools, LLMs and vector databases.  
-
-* **Software Engineering Intern, Grubtech** (2023–Sep 2023, Dubai)  
-  • Containerized Spring Boot applications with Docker and established CI/CD pipelines using CircleCI.  
-  • Used SonarQube for code quality analysis and wrote comprehensive unit tests with JUnit and Mockito.  
-  • Created real‑time dashboards with React and Redux to monitor Kafka brokers.  
-  • Hosted applications on AWS EC2 and utilized AWS Lambda, S3 and DynamoDB.  
-
-* **AI Chatbot Developer (Freelance, Upwork)** (2023–present)  
-  • Designed and implemented conversational AI chatbots and custom voice assistants using OpenAI APIs, LangChain and AWS.
+<!-- Removed education and work experience sections to simplify the profile -->
 
 ## 🛠️ Skills & Technologies
 
